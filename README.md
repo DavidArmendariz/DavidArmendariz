@@ -21,6 +21,11 @@ Hi! My name is David Armendáriz and I am a mathematician and software developer
 
 ![David Armendariz Stats](https://github-readme-stats.vercel.app/api?username=DavidArmendariz&theme=dark)
 
-![David Armendariz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidArmendariz&theme=dark)
+<iframe
+  width="600"
+  height="600"
+  src="https://ionicabizau.github.io/github-profile-languages/api.html?DavidArmendariz"
+  frameborder="0">
+</iframe>
 
 </div>
