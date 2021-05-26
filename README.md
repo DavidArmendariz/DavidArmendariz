@@ -19,6 +19,6 @@ Hi! My name is David Armendáriz and I am a mathematician and software developer
 
 <div align="center">
 
-![David Armendariz Stats](https://github-readme-stats.vercel.app/api?username=DavidArmendariz&theme=dark)
+![David Armendariz Stats](https://github-readme-stats.vercel.app/api?username=DavidArmendariz&theme=synthwave&show_icons=true&count_private=true)
 
 </div>
