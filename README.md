@@ -5,11 +5,11 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/david-adrian-armendariz/">
 <img src="./linkedin.png" alt="LinkedIn"/></a>
-<a href="https://twitter.com/DavidAP1998">
+<a href="https://twitter.com/_davidaap_">
 <img src="./twitter.png" alt="Twitter"/></a>
 <a href="https://paypal.me/darmendarizp">
 <img src="./paypal.png" alt="Paypal"/></a>
-<a href="https://www.instagram.com/davidarmendarizp/">
+<a href="https://www.instagram.com/_davidaap_/">
 <img src="./instagram.png" alt="Instagram"/></a>
 <a href="https://www.youtube.com/channel/UC4jmaY21ri9n3DteRwuoJaA">
 <img src="./youtube.png" alt="YouTube"/></a>
